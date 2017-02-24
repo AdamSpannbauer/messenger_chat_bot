@@ -1,0 +1,8 @@
+#secret stuff
+imgur/keys/*
+
+#r stuff
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
